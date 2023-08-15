@@ -1,1 +1,1 @@
-#This is the official website of Abid Magazine.
+This is the official code for Abid Magazine's website.
